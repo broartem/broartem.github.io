@@ -2,7 +2,7 @@ permalink   : /:categories/:year/:title/
 markdown    : kramdown
 highlighter : pygments
 
-paginate: 2 #6
+paginate: 6
 comments: true
 paginate_path: "/page/:num"
 
@@ -13,30 +13,30 @@ sass:
   style: compressed
 
 # Site settings
-title: Lora
-description: "A free Jekyll theme"
-email: your-email@domain.com
+title: Artem Plotnikov's blog
+author_name: Artem Plotnikov
+description: "Artem Plotnikov's blog"
+email: a.i.plotn@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com"
-url: "http://nandomoreira.me/lora"
+url: "http://aplotnikov.com"
 repository: "https://github.com/nandomoreirame/lora"
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+disqus_shortname: "disqus_tp8Gua1Cdv"
+google_analytics: UA-73121412-1
 
 # social footer
 social:
   github:
     slug: github
-    link: http://github.com/nandomoreirame
-  facebook:
-    slug: facebook
-    link: http://facebook.com/fernando.dev
-  twitter:
-    slug: twitter
-    link: http://twitter.com/nandomoreirame
-  instagram:
-    slug: instagram
-    link: http://instagram.com/nandomoreira.me
+    link: http://github.com/broartem
+  # facebook:
+  #   slug: facebook
+  #   link: http://facebook.com/fernando.dev
+  # twitter:
+  #   slug: twitter
+  #   link: http://twitter.com/nandomoreirame
+  # instagram:
+  #   slug: instagram
+  #   link: http://instagram.com/nandomoreira.me
   linkedin:
     slug: linkedin
-    link: http://linkedin.com/in/nandomoreirame
+    link: http://linkedin.com/in/artemplotnikov
