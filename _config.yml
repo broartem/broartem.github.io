@@ -6,7 +6,7 @@ paginate: 6
 comments: true
 paginate_path: "/page/:num"
 
-source: source
+# source: source
 destination: _site
 sass:
   sass_dir: _scss
