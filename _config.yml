@@ -19,7 +19,7 @@ description: "Artem Plotnikov's blog"
 email: a.i.plotn@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aplotnikov.com"
-repository: "https://github.com/nandomoreirame/lora"
+repository: "https://github.com/broartem/broartem.github.io"
 disqus_shortname: "disqus_tp8Gua1Cdv"
 google_analytics: UA-73121412-1
 
