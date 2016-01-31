@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! My name is Artem Plotnikov. I am a software engeneer and my career focus is on delivering scalable and high performant data processing and data visualization applications. I have an experience in developing applications with Apache Kafka, Apache Storm and Apache Spark using machine learning technics to provide valuable B2B services. Also, I have developed several scientific visualization applications running on the top of HPC clusters.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My alma mater is [Moscow Institute of Physics and Technology](https://mipt.ru/en/) and currently I am a PhD student at [Keldysh Institute of Applied Mathematics](http://keldysh.ru/index.en.shtml). See my [LinkedIn](https://linkedin.com/in/artemplotnikov) profile for more details.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Here I write about various technical topics.
