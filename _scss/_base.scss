@@ -41,6 +41,14 @@ textarea {
   line-height: $line-height-base;
 }
 
+ul {
+  padding: 1.2em;
+}
+
+li {
+  list-style-type: disc;
+}
+
 a {
   color: $link-color;
   text-decoration: underline;
