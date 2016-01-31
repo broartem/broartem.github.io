@@ -1,6 +1,7 @@
 ---
 title: Simple visualization of unstructured grid quality with Python and VTK
 layout: post
+comments: true
 ---
 
 The Visualization ToolKit (VTK) is an excellent open source library for creating visualization applications. VTK has been written in C++ and has an automatically generated Python wrappings around the majority of its C++ classes. This post shows how to build a simple [mesh quality](http://www.vtk.org/Wiki/VTK/mesh_quality) visualization of unstructured tetrahedral grid from Python using VTK. The result should look like the one on the picture below:
