@@ -1,7 +1,11 @@
 permalink   : /:categories/:year/:title/
 markdown    : kramdown
-highlighter : pygments
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+gems: [jekyll-paginate, jekyll-gist, jekyll-coffeescript]
 paginate: 6
 comments: true
 paginate_path: "/page/:num"
